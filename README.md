@@ -1,4 +1,4 @@
-# first_app
+# Flutter - Dice App 
 
 A new Flutter project.
 
